@@ -1,0 +1,2 @@
+hay there am creating file without cloning. first We are testing staging area. 
+Now i am modifing the text to add some more contnet.
